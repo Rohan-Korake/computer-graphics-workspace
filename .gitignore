@@ -1,0 +1,18 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Executables / Binaries
+main
+*.out
+*.app
+
+# VS Code specific files (optional, but good to keep local settings out)
+.vscode/settings.json
+
+# macOS System Files
+.DS_Store
