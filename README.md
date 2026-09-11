@@ -31,3 +31,4 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 |    3    | **Pentagon**      | Simple program to display Lime Pentagon            |   [View Code](./shapes/pentagon.cpp)    |
 |    4    | **Square**        | Simple program to display Hot Pink Square          |    [View Code](./shapes/square.cpp)     |
 |    5    | **Parallelogram** | Simple program to display Hot Golden Parallelogram | [View Code](./shapes/parallelogram.cpp) |
+|    6    | **Home**          | Simple program to display Home                     |     [View Code](./scenes/home.cpp)      |
