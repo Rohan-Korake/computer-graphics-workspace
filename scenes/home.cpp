@@ -2,6 +2,7 @@
 #include <OpenGL/gl.h>
 #include <GLUT/glut.h>
 
+// draw home block
 void drawHome()
 {
     glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
@@ -51,6 +52,7 @@ void drawHome()
     glFlush();
 }
 
+// main entry block
 int main(int argc, char **argv)
 {
     glutInit(&argc, argv);
