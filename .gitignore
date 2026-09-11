@@ -1,18 +1,17 @@
-# Compiled Object files
-*.o
-*.obj
+# Ignore everything by default
+*
 
-# Precompiled Headers
-*.gch
-*.pch
+# But do not ignore directories (so git can traverse into folders like 'shapes')
+!*/
 
-# Compiled Executables / Binaries
-main
-*.out
-*.app
+# Allow .cpp files
+!*.cpp
 
+# Optional: If you also want to keep your README.md
+!README.md
+!colors.txt
 # VS Code specific files (optional, but good to keep local settings out)
-.vscode/settings.json
+.vscode
 
 # macOS System Files
 .DS_Store

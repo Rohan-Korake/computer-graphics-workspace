@@ -1,0 +1,11 @@
+glColor3f(0.0f, 0.8f, 1.0f); // Neon Blue
+glColor3f(1.0f, 0.5f, 0.0f); // Sunset Orange
+glColor3f(1.0f, 0.4f, 0.7f); // Hot Pink
+glColor3f(0.6f, 0.2f, 0.8f); // Electric Purple
+glColor3f(1.0f, 0.9f, 0.0f); // Bright Yellow
+glColor3f(0.0f, 0.8f, 0.8f); // Turquoise
+glColor3f(0.0f, 1.0f, 0.0f); // Lime Green
+glColor3f(0.8f, 0.1f, 0.1f); // Crimson Red
+glColor3f(0.0f, 0.4f, 0.4f); // Deep Teal
+glColor3f(1.0f, 0.8f, 0.0f); // Golden Yellow
+glColor3f(0.5f, 0.5f, 0.5f); // Cool Gray
