@@ -7,12 +7,14 @@ void drawEqualTo()
     glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
     glClear(GL_COLOR_BUFFER_BIT);
 
+    // upper Line
     glBegin(GL_QUADS);
     glVertex2f(-0.5, 0.2);
     glVertex2f(0.5, 0.2);
     glVertex2f(0.5, 0.1);
     glVertex2f(-0.5, 0.1);
 
+    // lower Line
     glBegin(GL_QUADS);
     glVertex2f(-0.5, -0.2);
     glVertex2f(0.5, -0.2);

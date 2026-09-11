@@ -8,12 +8,15 @@ void drawPlus()
     glClear(GL_COLOR_BUFFER_BIT);
 
     glColor3f(0.8f, 0.1f, 0.1f); // Crimson Red
+
+    // vertical
     glBegin(GL_QUADS);
     glVertex2f(0.1f, 0.6f);
     glVertex2f(0.1f, -0.6f);
     glVertex2f(-0.1f, -0.6f);
     glVertex2f(-0.1f, 0.6f);
 
+    // horizontal
     glBegin(GL_QUADS);
     glVertex2f(-0.6f, 0.1f);
     glVertex2f(0.6f, 0.1f);

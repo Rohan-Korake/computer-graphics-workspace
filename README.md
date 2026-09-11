@@ -24,11 +24,15 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 
 ### Programs
 
-| Sr. No. | Program Name      | Description                                        |               Source File               |
-| :-----: | :---------------- | :------------------------------------------------- | :-------------------------------------: |
-|    1    | **Triangle**      | Simple program to display neon Triangle            |   [View Code](./shapes/triangle.cpp)    |
-|    2    | **Rectangle**     | Simple program to display Orange Rectangle         |  [View Code](./shapes/reactangle.cpp)   |
-|    3    | **Pentagon**      | Simple program to display Lime Pentagon            |   [View Code](./shapes/pentagon.cpp)    |
-|    4    | **Square**        | Simple program to display Hot Pink Square          |    [View Code](./shapes/square.cpp)     |
-|    5    | **Parallelogram** | Simple program to display Hot Golden Parallelogram | [View Code](./shapes/parallelogram.cpp) |
-|    6    | **Home**          | Simple program to display Home                     |     [View Code](./scenes/home.cpp)      |
+| Sr. No. | Program Name      |               Source File               |
+| :-----: | :---------------- | :-------------------------------------: |
+|   01    | **Triangle**      |   [View Code](./shapes/triangle.cpp)    |
+|   02    | **Rectangle**     |  [View Code](./shapes/reactangle.cpp)   |
+|   03    | **Pentagon**      |   [View Code](./shapes/pentagon.cpp)    |
+|   04    | **Square**        |    [View Code](./shapes/square.cpp)     |
+|   05    | **Parallelogram** | [View Code](./shapes/parallelogram.cpp) |
+|   06    | **Home**          |     [View Code](./scenes/home.cpp)      |
+|   07    | **Plus**          |    [View Code](./operators/plus.cpp)    |
+|   08    | **Minus**         |   [View Code](./operators/minus.cpp)    |
+|   09    | **Corss**         |   [View Code](./operators/cross.cpp)    |
+|   10    | **EqualTo**       |  [View Code](./operators/equalTo.cpp)   |
