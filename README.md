@@ -31,6 +31,7 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 |   03    | **Pentagon**      |   [View Code](./shapes/pentagon.cpp)    |
 |   04    | **Square**        |    [View Code](./shapes/square.cpp)     |
 |   05    | **Parallelogram** | [View Code](./shapes/parallelogram.cpp) |
+|   06    | **Circle**        |    [View Code](./shapes/circle.cpp)     |
 
 ---
 
