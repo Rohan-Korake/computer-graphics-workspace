@@ -22,7 +22,7 @@ To run the compiled program:
 
 You can find a list of pre-tested RGB values for your shapes in the [colors.txt](./colors.txt) file.
 
-### Programs
+### Shapes
 
 | Sr. No. | Program Name      |               Source File               |
 | :-----: | :---------------- | :-------------------------------------: |
@@ -31,8 +31,23 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 |   03    | **Pentagon**      |   [View Code](./shapes/pentagon.cpp)    |
 |   04    | **Square**        |    [View Code](./shapes/square.cpp)     |
 |   05    | **Parallelogram** | [View Code](./shapes/parallelogram.cpp) |
-|   06    | **Home**          |     [View Code](./scenes/home.cpp)      |
-|   07    | **Plus**          |    [View Code](./operators/plus.cpp)    |
-|   08    | **Minus**         |   [View Code](./operators/minus.cpp)    |
-|   09    | **Corss**         |   [View Code](./operators/cross.cpp)    |
-|   10    | **EqualTo**       |  [View Code](./operators/equalTo.cpp)   |
+
+---
+
+### Scenes
+
+| Sr. No. | Program Name |          Source File           |
+| :-----: | :----------- | :----------------------------: |
+|   01    | **Home**     | [View Code](./scenes/home.cpp) |
+
+---
+
+### Operators
+
+| Sr. No. | Program Name |              Source File              |
+| :-----: | :----------- | :-----------------------------------: |
+|   01    | **Plus**     |   [View Code](./operators/plus.cpp)   |
+|   02    | **Minus**    |  [View Code](./operators/minus.cpp)   |
+|   03    | **Corss**    |  [View Code](./operators/cross.cpp)   |
+|   04    | **EqualTo**  | [View Code](./operators/equalTo.cpp)  |
+|   05    | **Division** | [View Code](./operators/division.cpp) |
