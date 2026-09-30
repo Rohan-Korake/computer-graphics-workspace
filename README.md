@@ -60,3 +60,11 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 | Sr. No. | Program Name          |            Source File             |
 | :-----: | :-------------------- | :--------------------------------: |
 |   01    | **Capital A B E H T** | [View Code](./alphabets/ABEHT.cpp) |
+
+---
+
+### Digital Differential Analyzer
+
+| Sr. No. | Program Name         |               Source File                |
+| :-----: | :------------------- | :--------------------------------------: |
+|   01    | **12 Way Symmetric** | [View Code](./DDA/twelveWaySymmetry.cpp) |
