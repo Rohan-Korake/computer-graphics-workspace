@@ -68,3 +68,14 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 | Sr. No. | Program Name         |               Source File                |
 | :-----: | :------------------- | :--------------------------------------: |
 |   01    | **12 Way Symmetric** | [View Code](./DDA/twelveWaySymmetry.cpp) |
+
+---
+
+### Bresenham's Circle & Line Drawing Algorithm
+
+| Sr. No. | Program Name      |               Source File                |
+| :-----: | :---------------- | :--------------------------------------: |
+|   01    | **Single Circle** |   [View Code](./bresenhams/circle.cpp)   |
+|   02    | **Quad Circle**   | [View Code](./bresenhams/quadCircle.cpp) |
+
+---
