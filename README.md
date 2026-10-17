@@ -77,5 +77,6 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 | :-----: | :---------------- | :--------------------------------------: |
 |   01    | **Single Circle** |   [View Code](./bresenhams/circle.cpp)   |
 |   02    | **Quad Circle**   | [View Code](./bresenhams/quadCircle.cpp) |
+|   03    | **Line**          |    [View Code](./bresenhams/line.cpp)    |
 
 ---
