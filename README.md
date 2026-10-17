@@ -68,6 +68,8 @@ You can find a list of pre-tested RGB values for your shapes in the [colors.txt]
 | Sr. No. | Program Name         |               Source File                |
 | :-----: | :------------------- | :--------------------------------------: |
 |   01    | **12 Way Symmetric** | [View Code](./DDA/twelveWaySymmetry.cpp) |
+|   02    | **Single Circle**    |      [View Code](./DDA/circle.cpp)       |
+|   03    | **Line**             |       [View Code](./DDA/line.cpp)        |
 
 ---
 
